@@ -1,0 +1,14 @@
+#question {
+    text-align: center;
+    font-size: 24px;
+    font-family: "Helvetica Neue";
+    font-weight: 300;
+    margin-top: 200px;  
+}
+
+#message {
+    text-align: center;
+    font-size: 140px;
+    font-family: "Helvetica Neue";
+    font-weight: 700;
+}
